@@ -22,4 +22,6 @@ slides:
   - we-feel-fine
   - social-reviews
   - social-media
+  - hypertext-hypermedia
+  - back-button
 ---
