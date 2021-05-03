@@ -1,7 +1,7 @@
 ---
 author: alexistsiranidis
 title: "Hypertext Editing System"
-image_url: /images/ipod_1g.png
+image_url: /images/hypertext_system_thumb.jpg
 caption: "Την δεκαετία του ’60 μια δεκαετία τεράστιων ανακαλύψεων και ανατροπών για την επιστήμη των υπολογιστών η ιδέα του Ted Nelson για κείμενο με συνδέσεις που σε μεταφέρουν σε άλλο σημείο τροφοδότησε το Hypertext Editing System και έμελλε να αλλάξει τον τρόπο που αλληλοεπιδρούμε με τα υπολογιστικά συστήματα για πάντα."
 categories:
   - Μελέτη Περίπτωσης
