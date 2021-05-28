@@ -16,4 +16,4 @@ gallery:
 
 {% include extras/cs-hypertext_system.md %}
 
-{% include gallery/hypertext_system.md %}
+{% include _gallery/hypertext_system.md %}
