@@ -10,7 +10,7 @@ tags:
   - hypertext
   - tednelson
 gallery:
-  - image_url: /images/"hypertext_system.jpg"
+  - image_url: /images/hypertext_editing_system.jpg
     caption: "Tο σύστημα δημιουργήθηκε για να ερευνηθεί η ιδέα των υπερσυνδέσμων του Ted Nelson"
 ---
 
